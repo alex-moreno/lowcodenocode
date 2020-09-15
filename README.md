@@ -100,8 +100,6 @@ Pending categorization
 	- https://techcrunch.com/2020/08/11/parabola-no-code-platform-raises-8m-series-a-as-it-focuses-on-ecommerce/
 	- https://www.appian.com/platform/
 
-Automation
-
 
 Voice apps (Google, Alexa, …)
 	- https://www.voiceflow.com/ - https://twitter.com/VoiceflowHQ
