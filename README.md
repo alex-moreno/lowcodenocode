@@ -85,6 +85,7 @@ Automation
 	- https://twitter.com/tray = https://tray.io/ 
 
 Design
+
 	- Design.org
 	
 
@@ -102,10 +103,12 @@ Pending categorization
 
 
 Voice apps (Google, Alexa, …)
+
 	- https://www.voiceflow.com/ - https://twitter.com/VoiceflowHQ
 
 
 Articles
+
 	- https://www.6pages.com/brief/2020/08/05/whats_new_interesting_in_lowcodenocode#what-it-means
 	- https://msilb7.com/posts/when-development-becomes-accessible
 	- https://www.theregister.com/2020/07/22/microsoft_dataflex_data/
@@ -115,6 +118,7 @@ Articles
 
 
 List of tools
+
 	- https://welovenocode.com/
 	- https://nocodelist.co/
 	- https://www.6pages.com/brief/2020/08/05/whats_new_interesting_in_lowcodenocode#what-it-means
@@ -123,15 +127,18 @@ List of tools
 
 
 Tutorials
+
 	- https://sinoficina.com/sesiones/ganale-horas-a-tu-semana-haciendo-que-integromat-trabaje-por-ti/
 
 Conferences
+
 	- https://webflow.com/nocodeconf
 	- https://zeroqode.com/zerocodeconf
 
 
 
 To try:
+
 	- PowerApps, 
 	- Flow, 
 	- Power BI and Power Platform products
