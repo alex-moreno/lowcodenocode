@@ -6,14 +6,9 @@ Learn nocode
 	- https://lab.zeroqode.com/courses
 	- https://sincodigo.io/ (Spanish)
 	- Learn Bubble: Welcome to Bubble: Crash Course [1/10]
-	
-
-
-Conferences
-	- https://zeroqode.com/zerocodeconf
 
 Who to follow in Twitter
-	- 
+	- TODO
 
 Commerce
 
@@ -37,12 +32,6 @@ Database
 Forms 
 
 	- https://formspree.io/
-
-Microsoft
-
-	- https://www.theregister.com/2020/07/22/microsoft_dataflex_data/
-	- https://www.outsystems.com/
-
 
 Web & Apps:
 
@@ -121,6 +110,9 @@ Voice apps (Google, Alexa, …)
 Articles
 	- https://www.6pages.com/brief/2020/08/05/whats_new_interesting_in_lowcodenocode#what-it-means
 	- https://msilb7.com/posts/when-development-becomes-accessible
+	- https://www.theregister.com/2020/07/22/microsoft_dataflex_data/
+	- https://www.outsystems.com/
+	- https://alexmoreno.net/will-low-code-kill-developer-jobs/
 
 
 
@@ -136,13 +128,15 @@ Tutorials
 	- https://sinoficina.com/sesiones/ganale-horas-a-tu-semana-haciendo-que-integromat-trabaje-por-ti/
 
 Conferences
-	- https://webflow.com/nocodeconf
 
+	- https://webflow.com/nocodeconf
+	- https://zeroqode.com/zerocodeconf
 
 
 
 To try:
-	PowerApps, Flow, Power BI, and Power Platform products
-
-big tech giants (such as Microsoft Power Apps) to niche startups (such as Glide), integration players (such as Zapier) to high-design website creators (such as Webflow), consumer app platforms (such as Bubble.io) to enterprise app tools (such as Salesforce Lightning).
+	- PowerApps, 
+	- Flow, 
+	- Power BI and Power Platform products
+	- big tech giants (such as Microsoft Power Apps) to niche startups (such as Glide), integration players (such as Zapier) to high-design website creators (such as Webflow), consumer app platforms (such as Bubble.io) to enterprise app tools (such as Salesforce Lightning).
 
