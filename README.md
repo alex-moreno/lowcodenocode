@@ -81,6 +81,8 @@ Communities
 Automation
 
 	- https://automate.io/
+	- https://twitter.com/theappsmith
+	- https://twitter.com/tray = https://tray.io/ 
 
 Design
 	- Design.org
@@ -99,8 +101,6 @@ Pending categorization
 	- https://www.appian.com/platform/
 
 Automation
-	- https://twitter.com/theappsmith
-	- https://twitter.com/tray - https://tray.io/ 
 
 
 Voice apps (Google, Alexa, …)
@@ -128,7 +128,6 @@ Tutorials
 	- https://sinoficina.com/sesiones/ganale-horas-a-tu-semana-haciendo-que-integromat-trabaje-por-ti/
 
 Conferences
-
 	- https://webflow.com/nocodeconf
 	- https://zeroqode.com/zerocodeconf
 
