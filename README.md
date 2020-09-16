@@ -18,11 +18,15 @@ Commerce
 	- https://www.kaddra.com/
 	- https://carrd.co/
 
+Payment
+
+	- https://stripe.com/
 
 API connector
 
 	- https://www.integromat.com/en
 	- https://zapier.com/app/dashboard
+	- https://prestoapi.com/ = @PrestoApi
 
 Database
 
@@ -88,11 +92,6 @@ Design
 
 	- Design.org
 	
-API
-
-	- https://prestoapi.com/ = @PrestoApi
-
-
 
 Pending categorization
 
