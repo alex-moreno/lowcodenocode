@@ -48,6 +48,7 @@ Web & Apps:
 	- https://www.mendix.com/
 	- Pineapple 
 	- https://www.softr.io/
+	- https://spreadsimple.com/ = @SpreadSimpleHQ
 
 Mail
 
