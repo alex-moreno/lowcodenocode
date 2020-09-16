@@ -87,6 +87,7 @@ Automation
 	- https://automate.io/
 	- https://twitter.com/theappsmith
 	- https://twitter.com/tray = https://tray.io/ 
+	- https://www.integrify.com/
 
 Design
 
