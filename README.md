@@ -104,6 +104,7 @@ Pending categorization
 	- https://www.arengu.com/
 	- https://techcrunch.com/2020/08/11/parabola-no-code-platform-raises-8m-series-a-as-it-focuses-on-ecommerce/
 	- https://www.appian.com/platform/
+	- https://www.notion.so/
 
 
 Voice apps (Google, Alexa, …)
