@@ -73,6 +73,7 @@ Agencies and services
 	- https://zeroqode.com/
 	- https://minimum.studio/
 	- Minimum.run
+	- https://www.n0c0de.com/ - https://twitter.com/n0c0de1
 	
 
 Learning
@@ -121,6 +122,8 @@ Articles
 	- https://www.theregister.com/2020/07/22/microsoft_dataflex_data/
 	- https://www.outsystems.com/
 	- https://alexmoreno.net/will-low-code-kill-developer-jobs/
+	- https://ibuildmyideas.substack.com/p/i-build-my-ideas-9-080920 by https://twitter.com/jsngr
+	
 
 
 
