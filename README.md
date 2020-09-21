@@ -37,6 +37,7 @@ Forms
 
 	- https://formspree.io/
 
+
 Web & Apps:
 
 	- https://www.glideapps.com/
@@ -49,6 +50,10 @@ Web & Apps:
 	- Pineapple 
 	- https://www.softr.io/
 	- https://spreadsimple.com/ = @SpreadSimpleHQ
+
+CMS
+
+	- https://pory.io/ 
 
 Mail
 
