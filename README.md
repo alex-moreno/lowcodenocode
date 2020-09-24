@@ -79,6 +79,7 @@ Agencies and services
 	- https://minimum.studio/
 	- Minimum.run
 	- https://www.n0c0de.com/ - https://twitter.com/n0c0de1
+	- List of agencies - https://nocodelist.co/agencies/
 	
 
 Learning
