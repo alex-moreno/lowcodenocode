@@ -65,7 +65,7 @@ Mail
 
 Bots
 
-	- Landbot
+	- https://landbot.io - @landbot_io
 	- https://www.teneo.ai/
 
 Machine learning
@@ -129,7 +129,10 @@ Articles
 	- https://alexmoreno.net/will-low-code-kill-developer-jobs/
 	- https://ibuildmyideas.substack.com/p/i-build-my-ideas-9-080920 by https://twitter.com/jsngr
 	
+Podcasts
 
+	- https://www.nocodepodcast.co/podcast = @nocodenoprobem 
+	
 
 
 List of tools
