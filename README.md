@@ -32,6 +32,7 @@ Database
 
 	- https://airtable.com/
 	- Google sheets
+	- dashdash.com = dashdash
 
 Forms 
 
@@ -50,6 +51,8 @@ Web & Apps:
 	- Pineapple 
 	- https://www.softr.io/
 	- https://spreadsimple.com/ = @SpreadSimpleHQ
+	- https://www.adalo.com/
+	- https://tadabase.io/ = @tadabaseio
 
 CMS
 
@@ -62,6 +65,9 @@ Mail
 	- https://emailoctopus.com/
 	- https://buttondown.email/
 
+Member and login
+
+	- https://www.memberstack.io/
 
 Bots
 
@@ -79,11 +85,14 @@ Agencies and services
 	- https://minimum.studio/
 	- Minimum.run
 	- https://www.n0c0de.com/ - https://twitter.com/n0c0de1
+	- https://twitter.com/bonsagency?s=11
 	- List of agencies - https://nocodelist.co/agencies/
 	
 
 Learning
+
 	- Creating courses https://www.arist.co/
+	- https://nocodery.com/ = @nocodery
 
 Communities
 
@@ -96,6 +105,12 @@ Automation
 	- https://twitter.com/theappsmith
 	- https://twitter.com/tray = https://tray.io/ 
 	- https://www.integrify.com/
+	
+
+Web scrapper
+
+	- https://automatio.co/ = automatio_co
+
 
 Design
 
@@ -115,6 +130,10 @@ Pending categorization
 	- https://www.appian.com/platform/
 	- https://www.notion.so/
 
+Product management
+
+	- huddle.so
+
 
 Voice apps (Google, Alexa, …)
 
@@ -129,12 +148,13 @@ Articles
 	- https://www.outsystems.com/
 	- https://alexmoreno.net/will-low-code-kill-developer-jobs/
 	- https://ibuildmyideas.substack.com/p/i-build-my-ideas-9-080920 by https://twitter.com/jsngr
+	- https://axiomq.com/blog/what-is-a-low-code-and-how-does-it-work-everything-you-need-to-know/
 	
 Podcasts
 
 	- https://www.nocodepodcast.co/podcast = @nocodenoprobem 
+	- https://visualdev.fm/ = @visualdevfm
 	
-
 
 List of tools
 
