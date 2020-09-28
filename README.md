@@ -149,6 +149,8 @@ Articles
 	- https://alexmoreno.net/will-low-code-kill-developer-jobs/
 	- https://ibuildmyideas.substack.com/p/i-build-my-ideas-9-080920 by https://twitter.com/jsngr
 	- https://axiomq.com/blog/what-is-a-low-code-and-how-does-it-work-everything-you-need-to-know/
+	- Nocode in Machine Learning = 	https://towardsdatascience.com/top-8-no-code-machine-learning-platforms-you-should-use-in-2020-1d1801300dd0
+
 	
 Podcasts
 
