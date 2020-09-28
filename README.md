@@ -10,6 +10,10 @@ Learn nocode
 Who to follow in Twitter
 	- TODO
 
+Marketplace (agencies and freelancers)
+
+	- https://experts.makerpad.co/
+
 Commerce
 
 	- Shopify
