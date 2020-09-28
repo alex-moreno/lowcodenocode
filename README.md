@@ -101,6 +101,7 @@ Learning
 Communities
 
 	- https://www.nocodedevs.com/
+	- https://www.dronahq.com/no-code-communities/
 
 
 Automation
