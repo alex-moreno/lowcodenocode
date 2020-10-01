@@ -103,6 +103,10 @@ Communities
 	- https://www.nocodedevs.com/
 	- https://www.dronahq.com/no-code-communities/
 
+Building communities
+
+	- Nice list of tools by @nocodededvs - http://news.nocodedevs.com/issues/build-a-community-nocode-needed-278957
+
 
 Automation
 
