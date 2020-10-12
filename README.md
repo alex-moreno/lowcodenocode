@@ -9,10 +9,13 @@ Learn nocode
 
 Who to follow in Twitter
 	- TODO
+	- https://twitter.com/nocodelife
+	
 
 Marketplace (agencies and freelancers)
 
 	- https://experts.makerpad.co/
+	- Recruitment agency: https://twitter.com/NoCodeJac?s=09
 
 Commerce
 
@@ -97,11 +100,21 @@ Learning
 
 	- Creating courses https://www.arist.co/
 	- https://nocodery.com/ = @nocodery
+	- https://twitter.com/nocodecamp
+	
+Books
+
+	- https://twitter.com/MakerMinions
 
 Communities
 
 	- https://www.nocodedevs.com/
 	- https://www.dronahq.com/no-code-communities/
+	- https://twitter.com/BuildNucode
+	
+News
+
+	- https://twitter.com/nocodereport?s=09
 
 Building communities
 
