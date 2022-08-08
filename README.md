@@ -9,7 +9,9 @@ Learn nocode
 
 Who to follow in Twitter
 	- TODO
+	- https://twitter.com/simonelnahas
 	- https://twitter.com/nocodelife
+
 	
 
 Marketplace (agencies and freelancers)
@@ -47,7 +49,7 @@ Forms
 
 
 Web & Apps:
-
+	- https://www.SpreadsheetCalculatorAPI.com 
 	- https://www.glideapps.com/
 	- https://thunkable.com/home2/
 	- https://www.adalo.com/ -> https://twitter.com/AdaloHQ
@@ -60,6 +62,7 @@ Web & Apps:
 	- https://spreadsimple.com/ = @SpreadSimpleHQ
 	- https://www.adalo.com/
 	- https://tadabase.io/ = @tadabaseio
+
 
 Mobile apps
 
