@@ -1,4 +1,4 @@
-Some resources I've been collecting on #lowcode #nocode, from tools to learning to list of tools
+Some resources I've been collecting on #lowcode #nocode, from tools, to learning to list of tools
 
 Learn nocode
 
